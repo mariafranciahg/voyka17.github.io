@@ -81,6 +81,9 @@ footer{
     color: white;
 }
 
+.escala:hover {
+    transform: scale(1.2);
+}
 
 
 
